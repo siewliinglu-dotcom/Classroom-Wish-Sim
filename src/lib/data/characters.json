@@ -1,8 +1,4 @@
-Here is the full, "professional" JSON block for your 8 students. This includes the itemID, vision, and offset settings to ensure the simulator handles your photos correctly.
 
-Paste this entire block into src/lib/data/characters.json, replacing everything inside:
-
-JSON
 {
   "lazarus_carlos": {
     "itemID": 20000001,
